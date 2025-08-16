@@ -107,7 +107,7 @@ pip install -r requirements.txt
 If you have questions or want to contribute, feel free to reach out:
 
 **Ramiro Plüss**  
-[Email](mailto:rpluss@itba.edu.ar):mailto:rpluss@itba.edu.ar
+[Email](mailto:rpluss@itba.edu.ar): rpluss@itba.edu.ar
 
 [LinkedIn Profile](https://www.linkedin.com/in/ramiropluss/)  
 [GitHub Profile](https://github.com/ramirop2021)  
