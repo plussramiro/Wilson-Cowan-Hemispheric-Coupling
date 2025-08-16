@@ -35,8 +35,8 @@ This modification allows us to investigate the role of hemispheric-specific coup
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/ramirop2021/Hemispheric-Coupling.git
-cd Hemispheric-Coupling
+git clone https://github.com/ramirop2021/Wilson-Cowan-Hemispheric-Coupling.git
+cd Wilson-Cowan-Hemispheric-Coupling
 ```
 
 ### 2. Create a virtual environment (recommended)
