@@ -1,0 +1,8 @@
+{
+"xlim_zoom": [99, 100],
+"ylim_exc_activity": [0.0, 0.6],
+"ylim_global": [-0.15, 0.15],
+"save_figures": true,
+"save_fc_txt": true,
+"save_signals_txt": false
+}

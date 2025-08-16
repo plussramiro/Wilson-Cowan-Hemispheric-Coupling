@@ -1,0 +1,10 @@
+
+--- ctrl ---
+Weight       -> Mean = 0.0020, Std = 0.0052
+Betweenness  -> Mean = 0.0492, Std = 0.0486
+Degree       -> Mean = 43.0882, Std = 11.4503
+
+--- schz ---
+Weight       -> Mean = 0.0020, Std = 0.0055
+Betweenness  -> Mean = 0.0487, Std = 0.0475
+Degree       -> Mean = 47.2941, Std = 11.1065
