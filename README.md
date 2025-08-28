@@ -4,11 +4,12 @@ This repository contains the source code, simulation data, and analysis tools fo
 
 **“Hemispheric-Specific Coupling Improves Modeling of Functional Connectivity Using Wilson–Cowan Dynamics”**
 
-In this work, we extend the classical Wilson–Cowan neural mass model by incorporating **two coupling parameters**:  
+In this work, we extend the classical Wilson–Cowan neural mass model, which traditionally uses a single global coupling parameter **G** [inspired by Abeysuriya et al. [(PLOS Comput Biol, 2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006007)], by introducing **two coupling parameters**:  
+
 - **G1** for intra-hemispheric interactions  
 - **G2** for inter-hemispheric interactions  
 
-This modification allows us to investigate the role of hemispheric-specific coupling in shaping large-scale brain dynamics and functional connectivity (FC). Using empirical structural connectomes from healthy controls and schizophrenia patients, we show that separating intra- and inter-hemispheric connectivity improves the match between simulated and empirical FC.
+This modification allows us to investigate the role of hemispheric-specific coupling in shaping large-scale brain dynamics and functional connectivity (FC). Using empirical structural connectomes from healthy controls and schizophrenia patients, we show that distinguishing intra- and inter-hemispheric connectivity improves the correspondence between simulated and empirical FC.
 
 ---
 
@@ -107,14 +108,15 @@ pip install -r requirements.txt
 If you have questions or want to contribute, feel free to reach out:
 
 **Ramiro Plüss**  
-[Email](mailto:rpluss@itba.edu.ar): rpluss@itba.edu.ar
 
-[LinkedIn Profile](https://www.linkedin.com/in/ramiropluss/)  
-[GitHub Profile](https://github.com/ramirop2021)  
+Email: rpluss@itba.edu.ar
+
+LinkedIn: [https://www.linkedin.com/in/ramiropluss/](https://www.linkedin.com/in/ramiropluss/)
+
+GitHub: [https://github.com/ramirop2021](https://github.com/ramirop2021)  
 
 ---
 
 ## 📄 Citation
 
-The accompanying research paper is available as a preprint on arXiv:  
- https://arxiv.org/abs/2506.22951
+The accompanying research paper is available as a preprint on arXiv: https://arxiv.org/abs/2506.22951
