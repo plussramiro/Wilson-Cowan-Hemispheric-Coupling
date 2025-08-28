@@ -13,7 +13,7 @@ This modification allows us to investigate the role of hemispheric-specific coup
 
 ---
 
-## 📂 Dataset
+## 🧠 Dataset
 
 All simulations are based on the dataset from Vohryzek et al. [(Zenodo, 2020)](https://doi.org/10.5281/zenodo.3758534). This dataset contains diffusion and resting-state fMRI data acquired from 27 patients with schizophrenia and 27 demographically matched healthy controls, used to build the group-average structural and functional connectivity matrices analyzed in this work.
 
