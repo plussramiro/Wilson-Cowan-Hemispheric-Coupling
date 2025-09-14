@@ -125,4 +125,12 @@ GitHub: [https://github.com/ramirop2021](https://github.com/ramirop2021)
 
 ## 📄 Citation
 
-The accompanying research paper is available as a preprint on arXiv: https://arxiv.org/abs/2506.22951
+If you use this code or the data provided in this work, please cite the associated research paper:
+
+Ramiro Plüss, Hernán Villota, Patricio Orio.  
+"Hemispheric-Specific Coupling Improves Modeling of Functional Connectivity Using Wilson–Cowan Dynamics."  
+*arXiv preprint* [arXiv:2506.22951](https://arxiv.org/abs/2506.22951)
+
+## 📑 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
