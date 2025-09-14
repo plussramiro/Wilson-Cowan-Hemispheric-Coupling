@@ -131,6 +131,8 @@ Ramiro Plüss, Hernán Villota, Patricio Orio.
 "Hemispheric-Specific Coupling Improves Modeling of Functional Connectivity Using Wilson–Cowan Dynamics."  
 *arXiv preprint* [arXiv:2506.22951](https://arxiv.org/abs/2506.22951)
 
+---
+
 ## 📑 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
